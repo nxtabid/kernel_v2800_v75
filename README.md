@@ -1,2 +1,2 @@
-# kernel_3.18.19_wiko_leny3
-# bqs-5020 Strike
+# kernel_v2800 for Symphony V75
+# Config= v2800_defconfig
